@@ -2,7 +2,7 @@
 
 **Cornell University, Fall 2024**
 
-![GIS Illustration](https://gisgeography.com/wp-content/uploads/2018/01/What-is-GIS.jpg)  
+![GIS Illustration](https://github.com/wenzhengli-etal/introGIS_4080_5080/raw/main/images/IntroGIS1.png)  
 *Image Source: [GIS Geography](https://gisgeography.com/what-gis-geographic-information-systems/)*
 
 ---
@@ -68,17 +68,25 @@ Students are encouraged to collaborate during labs but must submit individual wo
 
 ---
 
-## Key Dates and Weekly Topics
+## Weekly Topics and Schedule
 
-| Week  | Dates       | Lecture Topic                              | Lab Assignment                     |
-|-------|-------------|--------------------------------------------|------------------------------------|
-| 1     | Aug 27/29   | Introduction to GIS                       | Lab 1: Introduction to ArcGIS     |
-| 2     | Sep 3/5     | Cartography and Thematic Mapping          | Lab 2: Thematic Mapping           |
-| 3     | Sep 10/12   | Map Projections                           | Lab 3: Map Projections            |
-| ...   | ...         | ...                                        | ...                                |
-| 15    | Dec 3/5     | Final Presentations                       | Final Project Submission          |
-
-Final projects are due **Monday, December 16 by 5 pm via Canvas**.
+| Week  | Dates            | Lecture Topics                                     | Lab Assignments                                | Homework/Readings                                                                                                     |
+|-------|------------------|---------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 1     | Aug 27/Aug 29    | Lecture #1: Introduction and Overview             | Lab #1: Introduction to ArcGIS                | Maantay and Ziegler, Chapter 1: Basics of mapping and GIS                                                            |
+| 2     | Sep 3/Sep 5      | Lecture #2: Cartography and Thematic Mapping      | Lab #2: Thematic Mapping                      | Essentials of GIS, Section 6.3                                                                                       |
+| 3     | Sep 10/Sep 12    | Lecture #3: Map Projections                       | Lab #3: Map Projections                       | Essentials of GIS, Map scales, coordinate systems and map projections                                                |
+| 4     | Sep 17/Sep 19    | Lecture #4: Geoprocessing                        | Lab #4: Geoprocessing                         | Essentials of GIS, Section 7.1 and 7.2                                                                               |
+| 5     | Sep 24/Sep 26    | Lecture #5: Geocoding and Digitizing Spatial Information | Lab #5: Geocoding and Digitizing Spatial Information |                                                                                                                      |
+| 6     | Oct 1/Oct 3      | Lecture #6: Manipulating Census Data             | Lab #6: Census Data Selection & Preparation   | Peters and MacDonald, Chapters 1 & 2; Urban Policy and the Census, Chapter 1                                         |
+| 7     | Oct 8/Oct 10     | Lecture #7: Environmental Justice Analysis       | Lab #7: Census Data Analysis                  | Schlossberg, Fischbeck, Mennis                                                                                       |
+| 8     | Oct 15/Oct 17    | No class (Fall Break); Midterm Quiz              |                                               |                                                                                                                      |
+| 9     | Oct 22/Oct 24    | Lecture #8: Suitability Analysis Using Model Builder | Lab #8: Site Suitability Analysis             | Malczewski, J (2004)                                                                                                 |
+| 10    | Oct 29/Oct 31    | Lecture #9: Introduction to Spatial Analysis     | Lab #9: Introduction to Spatial Statistics    |                                                                                                                      |
+| 11    | Nov 5/Nov 7      | Lecture #10: Interactive Web Mapping: Using StoryMaps | Lab #10: Create an Interactive Online Map     | Examples of interactive web maps                                                                                    |
+| 12    | Nov 12/Nov 14    | Lecture #11: Review and Progress in GIS          | Final Project Work Session                    |                                                                                                                      |
+| 13    | Nov 19/Nov 21    | Final Project Work Session                       |                                               |                                                                                                                      |
+| 14    | Nov 26/Nov 28    | In-Class Presentations                           |                                               |                                                                                                                      |
+| 15    | Dec 3/Dec 5      | In-Class Presentations                           |                                               |                                                                                                                      |
 
 ---
 
