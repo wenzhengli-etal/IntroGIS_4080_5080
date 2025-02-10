@@ -2,7 +2,7 @@
 
 **Cornell University, Fall 2024**
 
-![GIS Illustration](https://github.com/wenzhengli-etal/introGIS_4080_5080/raw/main/images/IntroGIS1.png)  
+<img src="https://github.com/wenzhengli-etal/wenzhengli-etal.github.io/blob/master/images/IntroGIS1.png?raw=true" alt="GIS Illustration" width="600">
 *Image Source: [GIS Geography](https://gisgeography.com/what-gis-geographic-information-systems/)*
 
 ---
