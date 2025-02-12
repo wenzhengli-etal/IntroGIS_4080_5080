@@ -50,22 +50,14 @@ Students are encouraged to collaborate during labs but must submit individual wo
 
 ---
 
-## Course Grading
+## Course Resources  
 
-| Component                       | Percentage |
-|---------------------------------|------------|
-| Problem Sets (10 labs)          | **60%**    |
-| Midterm Quiz                    | **5%**     |
-| Final Project                   | **30%**    |
-| Attendance/Participation Effort | **5%**     |
+📖 **Syllabus**: [Download PDF](https://github.com/wenzhengli-etal/IntroGIS_4080_5080/raw/main/Syllabus/IntroGIS_syllabus_fall24.pdf)  
 
-- **Late Policy**: 
-  - -5% for the following day  
-  - -10% for up to one week  
-  - -25% after one week  
-  - **No submissions** accepted after the last day of classes.  
+📌 **GitHub Repository**: [Course Materials](https://github.com/wenzhengli-etal/IntroGIS_4080_5080)  
 
 ---
+
 
 ## Weekly Topics and Schedule
 
@@ -110,16 +102,4 @@ More info: [SDS at Cornell](https://sds.cornell.edu/accommodations-services/acad
 
 ---
 
-## Readings and Resources
 
-There is no formal textbook. Required readings will include online materials and research articles, all provided via Canvas.
-
----
-
-## Contact
-
-If you have any questions or need assistance, please contact:
-- **Instructor**: Wenzheng Li ([wl563@cornell.edu](mailto:wl563@cornell.edu))  
-- **TAs**: Gauri Nagpal, Shubham Singh, Anika Sinthy  
-
----
