@@ -54,8 +54,6 @@ Students are encouraged to collaborate during labs but must submit individual wo
 
 📖 **Syllabus**: [Download PDF](https://github.com/wenzhengli-etal/IntroGIS_4080_5080/raw/main/Syllabus/IntroGIS_syllabus_fall24.pdf)  
 
-📌 **GitHub Repository**: [Course Materials](https://github.com/wenzhengli-etal/IntroGIS_4080_5080)  
-
 ---
 
 
